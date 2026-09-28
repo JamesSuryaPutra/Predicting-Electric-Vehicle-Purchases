@@ -11,4 +11,5 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 
 # Submission File
 For each id in the test set, you must predict a probability for the Will_Buy_EV variable. The file should contain a header and have the following format:
+
 <img width="658" height="120" alt="image" src="https://github.com/user-attachments/assets/179f47e6-2436-4e5d-836b-7e1355bb34ab" />
